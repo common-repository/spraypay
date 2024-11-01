@@ -1,0 +1,167 @@
+# Copyright (C) 2021 Automattic
+# This file is distributed under the same license as the WooCommerce plugin.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: In3 Marketing Tool\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/woocommerce\n"
+"POT-Creation-Date: 2023-08-13 08:55+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Tallest\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.3.1\n"
+"X-Domain: woocommerce\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_attr_e;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: node_modules\n"
+"X-Poedit-SearchPathExcluded-1: src\n"
+"X-Poedit-SearchPathExcluded-2: postcss.config.js\n"
+"X-Poedit-SearchPathExcluded-3: webpack.config.js\n"
+"X-Poedit-SearchPathExcluded-4: package-lock.json\n"
+"X-Poedit-SearchPathExcluded-5: package.json\n"
+
+#: class-spray-pay.php:27 class-spray-pay.php:37
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: class-spray-pay.php:143
+msgid "Klik op te selecteren"
+msgstr ""
+
+#: class-spray-pay.php:223 class-spray-pay.php:224
+msgid "SprayPay Marketing Tool"
+msgstr ""
+
+#: class-spray-pay.php:244
+msgid "SprayPay Marketing Tool instellingen"
+msgstr ""
+
+#: class-spray-pay.php:249
+msgid "SprayPay Marketing Plugin – Verhoog de omzet en het gemiddelde aankoopbedrag door het maandbedrag van SprayPay te tonen op de productpagina."
+msgstr ""
+
+#: class-spray-pay.php:273
+msgid "De marketing tool instellingen pagina"
+msgstr ""
+
+#: class-spray-pay.php:413
+msgid "Activeer de marketing tool op:"
+msgstr ""
+
+#: class-spray-pay.php:420
+msgid "Klik hier om locaties toe te voegen"
+msgstr ""
+
+#: class-spray-pay.php:421
+msgid "Product pagina"
+msgstr ""
+
+#: class-spray-pay.php:425
+msgid "Kies het uiterlijk van de marketingtool"
+msgstr ""
+
+#: class-spray-pay.php:432
+msgid "Weergave: SprayPay logo en label"
+msgstr ""
+
+#: class-spray-pay.php:433
+msgid "Alleen Label"
+msgstr ""
+
+#: class-spray-pay.php:437
+msgid "Verberg de marketingtool"
+msgstr ""
+
+#: class-spray-pay.php:444
+msgid "Nee"
+msgstr ""
+
+#: class-spray-pay.php:445
+msgid "Ja"
+msgstr ""
+
+#: class-spray-pay.php:447
+msgid "Met deze optie kun je de standaardweergave van de marketingtool op productpagina's uitschakelen.<br>Met de volgende shortcode kun je de marketingtool zelf op iedere positie op een productpagina plaatsen: <code>[spraypay]</code>."
+msgstr ""
+
+#: class-spray-pay.php:450
+msgid "Weergeven als"
+msgstr ""
+
+#: class-spray-pay.php:459
+msgid "Minimale prijs"
+msgstr ""
+
+#: class-spray-pay.php:467
+msgid "Het minimumbedrag waarmee de marketingtool zichtbaal zal zijn "
+msgstr ""
+
+#: class-spray-pay.php:470
+msgid "Maximale prijs"
+msgstr ""
+
+#: class-spray-pay.php:478
+msgid "Het maximumbedrag waarmee de marketingtool zichtbaal zal zijn"
+msgstr ""
+
+#: class-spray-pay.php:507
+msgid "Instellingen opgeslagen!"
+msgstr ""
+
+#: class-spray-pay.php:562
+msgid "Of {{{bedrag}}} per maand (?)"
+msgstr ""
+
+#: class-spray-pay.php:574
+msgid "<strong>{{{bedrag}}}</strong> per maand"
+msgstr ""
+
+#: class-spray-pay.php:575
+msgid "Of <strong>{{{bedrag}}}</strong> per maand"
+msgstr ""
+
+#: class-spray-pay.php:622
+msgid "Voorbeeld"
+msgstr ""
+
+#: includes/functions.php:140 includes/functions.php:349
+msgid "Let op! Geld lenen kost geld."
+msgstr ""
+
+#: includes/functions.php:170
+msgid "Betaal jouw aankoop in <strong>12,18,24 of 36 maanden</strong>."
+msgstr ""
+
+#: includes/functions.php:177
+#, php-format
+msgid "Beschikbaar voor aankopen tussen de <strong>€%s en €%s,-</strong>"
+msgstr ""
+
+#: includes/functions.php:183
+msgid "<strong>Volledig of extra aflossen</strong> is boetevrij. Jij bepaalt dus de looptijd!"
+msgstr ""
+
+#: includes/functions.php:190
+msgid "Een <strong>vast maandbedrag</strong>. Na 30 dagen schrijven wij het eerste maandbedrag af."
+msgstr ""
+
+#: includes/functions.php:197
+msgid "<strong>Aanvragen</strong> via het afrekenproces."
+msgstr ""
+
+#: includes/functions.php:204
+#, php-format
+msgid "Wil jij meer informatie over SprayPay: Ga naar %s"
+msgstr ""
+
+#: includes/functions.php:217
+msgid "SprayPay modaal"
+msgstr ""
+
+#: includes/functions.php:219
+msgid "Sluiten"
+msgstr ""
